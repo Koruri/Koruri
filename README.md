@@ -18,7 +18,7 @@ Koruri-20140510 used **M+ TESTFLIGHT 058** and **Open Sans 1.10**.
 
 ## License
 
-Koruri licensed under **Apache License v2.0**. See LICENSE.txt.
+Koruri licensed under **Apache License v2.0**. See [LICENSE].
 
 ## Links
 
