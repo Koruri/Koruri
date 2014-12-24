@@ -5,16 +5,16 @@ M+ OUTLINE FONTS と Open Sans を合成した日本語 TrueType フォント
 
 ## フォントの構成
 
-Koruri-20140904 では、次の生成スクリプトを使用しています。
+Koruri-20141224 では、次の生成スクリプトを使用しています。
 [https://gist.github.com/lindwurm/b24657c335bb11a520c4/9461c1690188ddd2b6d721467653e6e0072689b8]
 
 - Koruri Regular: **M+ 1p Regular** と **Open Sans Regular** の合成
 - Koruri Light: **M+ 1p Light** と **Open Sans Light** の合成
 - Koruri Semibold: **M+ 1p Medium** と **Open Sans Semibold** の合成
 - Koruri Bold: **M+ 1p Bold** と **Open Sans Bold** の合成
-- Koruri Extrabold: **M+ 1p Black** と **Open Sans Extrabold** の合成
+- Koruri Extrabold: **M+ 1p Heavy** と **Open Sans Extrabold** の合成
 
-Koruri-20140904 では、 **M+ OUTLINE FONTS** の CVS HEAD (2014.09.04) から生成したフォントと **Open Sans 1.10** を使用しています。
+Koruri-20141224 では、 **M+ OUTLINE FONTS TESTFLIGHT 059 (2014.11.26)** と **Open Sans 1.10** を使用しています。
 
 ## ライセンス
 
