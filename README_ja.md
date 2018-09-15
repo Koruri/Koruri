@@ -21,13 +21,13 @@ Koruri は **Apache License v2.0** の下で公開されます。 [LICENSE](LICE
 
 ## リンク
 
-- M+ FONTS: [mplus-fonts.osdn.jp](http://mplus-fonts.osdn.jp)
+- M+ FONTS: [mplus-fonts.osdn.jp](https://mplus-fonts.osdn.jp)
 - Open Sans: [www.google.com/fonts/specimen/Open+Sans](https://www.google.com/fonts/specimen/Open+Sans)
-- FontForge: [fontforge.github.io](http://fontforge.github.io)
+- FontForge: [fontforge.github.io](https://fontforge.github.io)
 
 ### Koruri
 
-- Webサイト: [koruri.lindwurm.biz](http://koruri.lindwurm.biz)
+- Webサイト: [koruri.github.io](https://koruri.github.io)
 - OSDN: [ja.osdn.net/projects/koruri](https://ja.osdn.net/projects/koruri)
 - GitHub: [github.com/Koruri/Koruri](https://github.com/Koruri/Koruri)
 
@@ -36,4 +36,5 @@ Koruri は **Apache License v2.0** の下で公開されます。 [LICENSE](LICE
 ### lindwurm
 
 - Webサイト: [maud.io](https://maud.io)
+- Mastodon: [@hota@mstdn.maud.io](https://mstdn.maud.io/@hota)
 - Twitter: [twitter.com/lindwurm](https://twitter.com/lindwurm)
