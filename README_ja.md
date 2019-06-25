@@ -29,8 +29,7 @@ Koruri は **Apache License v2.0** の下で公開されます。 [LICENSE](LICE
 ### Koruri
 
 - [Website](https://koruri.github.io)
-- [Project on OSDN](https://ja.osdn.net/projects/koruri)
-- [Project on GitHub](https://github.com/Koruri/Koruri)
+- [GitHub: Koruri/Koruri](https://github.com/Koruri/Koruri)
 
 ## 作者
 
