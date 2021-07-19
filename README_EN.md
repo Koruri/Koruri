@@ -1,12 +1,10 @@
 # Koruri
 
-M+ OUTLINE FONTS と Open Sans を合成した日本語 TrueType フォント
+Japanese TrueType font obtained by mixing M+ FONTS and Open Sans.
 
-([English](README_EN.md))
+## Components
 
-## フォントの構成
-
-Koruri-20210720 で使用した生成スクリプトは [Koruri/Scripts@32347e6](https://github.com/Koruri/Scripts/commit/32347e67680ed8bbf4a2e34858eb61e6c2f602e1) から入手可能です。
+In Koruri-20210720, Generate Script is available on [Koruri/Scripts@32347e6](https://github.com/Koruri/Scripts/commit/32347e67680ed8bbf4a2e34858eb61e6c2f602e1).
 
 | Koruri | M+ 1p | Open Sans | Roboto
 |:---:|:---:|:---:|:---:|
@@ -16,13 +14,13 @@ Koruri-20210720 で使用した生成スクリプトは [Koruri/Scripts@32347e6]
 | **Bold** | Bold | Bold | Bold |
 | **Extrabold** | Heavy | ExtraBold | Black |
 
-Koruri-20210720 では、 **M+ OUTLINE FONTS TESTFLIGHT 063a** (OSDN版, 2019.04.23) と **Open Sans 1.10** を使用しています。
+Koruri-20210720 used **M+ OUTLINE FONTS TESTFLIGHT 063a** (OSDN version, 2019.04.23) and **Open Sans 1.10**.
 
-## ライセンス
+## License
 
-Koruri は **Apache License v2.0** の下で公開されます。 [LICENSE](LICENSE) をご覧ください。
+Koruri licensed under **Apache License v2.0**. See [LICENSE](LICENSE).
 
-## リンク
+## Links
 
 - [M+ FONTS](https://mplus-fonts.osdn.jp)
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
@@ -33,7 +31,7 @@ Koruri は **Apache License v2.0** の下で公開されます。 [LICENSE](LICE
 - [Website](https://koruri.github.io)
 - [GitHub: Koruri/Koruri](https://github.com/Koruri/Koruri)
 
-## 作者
+## Author
 
 ### lindwurm
 
